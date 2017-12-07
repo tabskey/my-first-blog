@@ -25,7 +25,7 @@ SECRET_KEY = 'fx-369^7o1q+0f4-4)$+viip@ahv+0^1x2u@qwbca*1!yil@l3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<you_username>pythonanywhere.com']
+ALLOWED_HOSTS = ['tabskey.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
